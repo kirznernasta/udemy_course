@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81512109419",
+    "project_id": "flat-chat-d3770",
+    "storage_bucket": "flat-chat-d3770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81512109419:android:cfd90ec45dc55b1312682e",
+        "android_client_info": {
+          "package_name": "com.NastyaKirzner.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81512109419-ljm4ma2o2cmiimb2rg6928a6uigoa5fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpaeh1ZsLhjkNI_5NTEHb4qdQZ4ekqv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81512109419-ljm4ma2o2cmiimb2rg6928a6uigoa5fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
